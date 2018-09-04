@@ -33,7 +33,7 @@
   },
   "scripts": {
     "postinstall": "bower install",
-
+    "server": "gulp serve",
     "test": "gulp && git status"
   }
 }
